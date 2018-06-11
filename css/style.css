@@ -188,12 +188,13 @@ ul{
     margin: 1.5em 0 0.5em;
 }
 .banner_text_w3layouts p {
-	color: #ff7674;
-	font-size:20px;
+	font-family: 'Comfortaa';
+	color: #bd978d;
+	font-size:25px;
 	margin: 0.5em;
 	letter-spacing: 2px;
 	text-transform: capitalize;
-	font-weight: 300;
+	font-weight: 500;
 }
 .w3-button a{
 	color: #ff7674;
