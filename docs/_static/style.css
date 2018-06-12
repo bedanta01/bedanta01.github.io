@@ -40,3 +40,10 @@ body {
     -webkit-margin-before: 0.83em;
     -webkit-margin-after: 0.83em;
 }
+
+.wy-grid-for-nav {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-family: Comfortaa;
+}
