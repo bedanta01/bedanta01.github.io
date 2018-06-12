@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{hello:[],index:0,modul:0,page:0,search:0},titles:["Welcome to viik36_blog\u2019s documentation!"],titleterms:{document:0,indic:0,tabl:0,viik36_blog:0,welcom:0}})
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{hello:[],index:0,modul:0,page:0,search:0},titles:["Welcome to my blog!"],titleterms:{blog:0,document:[],indic:0,tabl:0,viik36_blog:[],welcom:0}})
