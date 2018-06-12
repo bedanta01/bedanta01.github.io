@@ -172,6 +172,7 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
+html_style='style.css'
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
     'canonical_url': '',
